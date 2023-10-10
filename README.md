@@ -1,7 +1,7 @@
-# Transaction-Management\n
-\n
-API URLS:\n
-\n
+# Transaction-Management<br />
+<br />
+API URLS:<br />
+<br />
 http://127.0.0.1:8000/user/register/
 http://127.0.0.1:8000/user/token/
 http://127.0.0.1:8000/user/token-refresh/
